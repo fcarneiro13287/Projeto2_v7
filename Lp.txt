@@ -1,0 +1,6 @@
+nomeAlbum, titulo, compositor, interprete, ano, rotacoes, nFaixas
+Nevermind; Came as you are; Kurt Kobain; Nirvana; 1991; 33; 14;
+Californication; Scar Tissue; Rick Rublin; Red Hot Chilli Peppers; 1995; 45; 16;
+Fear of the Dark; Be Quik or Be Dead; Martin Birch; Iron Maiden; 1992; 33; 20;
+Kings of Metal; Wheels of Fire; Ross Friedman; Manowar; 1988; 45; 17;
+Walls of Jericho; Ride the Sky; Harris Jones; Helloween; 1985; 33; 20;

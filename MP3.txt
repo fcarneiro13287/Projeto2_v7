@@ -1,0 +1,7 @@
+nomeAlbum, titulo, compositor, interprete, ano, tamBytes, nMP3
+White Album; Here I go again; White Snake; White Snake; 1987; 47; 3;
+The Joshua Tree; With or Without You; U2; U2; 1987; 51; 12;
+Face Value; In the Air Tonight; Phil Collins; Phil Collins; 1981; 58; 13;
+Faster than the speed of Night; Total Eclipse of the Heart; Jim Steinman; Bonnie Tyler; 1983; 58; 10; 
+She is so Unusual; Time after time; Cyndi Lauper; Cyndi Lauper; 1984; 42; 14;
+Wonderland; Wonderland; Oasis; Oasis; 1995; 54; 1;
